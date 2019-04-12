@@ -15,5 +15,7 @@
         @include('layouts._footer')
       </div>
     </div>
+
+    <script src="{{ mix('js/app.js') }}" charset="utf-8"></script>
   </body>
 </html>
